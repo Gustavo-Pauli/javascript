@@ -1,5 +1,13 @@
 # Change Log
 
+## 0.3.15
+
+### Patch Changes
+
+- Updated dependencies [[`bfb3af28`](https://github.com/clerkinc/javascript/commit/bfb3af28eb69d47e31f2b846d1ecc309fd885704)]:
+  - @clerk/clerk-js@4.50.0
+  - @clerk/clerk-react@4.20.5
+
 ## 0.3.14
 
 ### Patch Changes

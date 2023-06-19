@@ -1,5 +1,17 @@
 # Change Log
 
+## 4.50.0
+
+### Minor Changes
+
+- Add ability for organization admins to delete an organization if they have permission to do so ([#1368](https://github.com/clerkinc/javascript/pull/1368)) by [@jescalan](https://github.com/jescalan)
+
+### Patch Changes
+
+- Updated dependencies [[`bfb3af28`](https://github.com/clerkinc/javascript/commit/bfb3af28eb69d47e31f2b846d1ecc309fd885704)]:
+  - @clerk/localizations@1.21.0
+  - @clerk/types@3.46.0
+
 ## 4.49.0
 
 ### Minor Changes
